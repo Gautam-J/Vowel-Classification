@@ -18,7 +18,7 @@ def extract_mfcc(file_name, pad_len=40, n_mfcc=15):
         n_mfcc (int): Number of MEL coefficients to compute.
 
     Returns:
-        mfccs (np.array): 1D array of shape (n_mfcc * pad_len,)
+        mfccs (np.array): 2D array of shape (n_mfcc, pad_len)
     """
 
     signal, sr = librosa.load(file_name, res_type='kaiser_fast')
