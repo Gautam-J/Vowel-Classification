@@ -1,3 +1,6 @@
+<h1 align="center"> Vowel Classification for Parkinson's disease </h1>
+
+
 ## About the Dataset:
 ### What is the 'Saarbruecken Voice Database'?
 
@@ -36,8 +39,7 @@ Accuracy: 99.13%
 Loss: 0.0334
 Accuracy: 99.37%
 
-![image](https://user-images.githubusercontent.com/76477365/204121618-1555400b-879f-4197-b7f5-f8f1187a87e5.png)
-
+<img src = "https://user-images.githubusercontent.com/76477365/204121618-1555400b-879f-4197-b7f5-f8f1187a87e5.png" height=600 >
 
 ## Contributors
 <a href="https://github.com/gautam-j/gautam-j/graphs/contributors">
@@ -61,7 +63,3 @@ Accuracy: 99.37%
 <p align="center">
 	Made with :coffee: and :heart:
 </p>
-
-
-
-
