@@ -12,7 +12,9 @@ A collection of voice recordings from more than 2000 persons. One recording sess
 
 ## Methodology
 ### Feature Extraction: 
-- Extraction of features is a very important part in analyzing and finding relations between different things. The data provided of audio cannot be understood by the models directly to convert them into an understandable format feature extraction is used.
+- Extraction of features is a very important part in analyzing and finding relations between different things. The data provided of audio cannot be understood by the models directly to convert them into an understandable format feature extraction is used. We convert the audio files to **Mel Frequency Cepstral Coefficients** (MFCCs) i.e. short term spectral features of a signal which are accepted by the models. MFCCs concisely describe the overall shape of a spectral envelope of them.
+
+- The categories are the three vowels *a, i, u*:
 
 <h4> Vowel a </h4>
 
